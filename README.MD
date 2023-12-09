@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2010<br>📚 I'm currently learning english<br>🎯 Goals: make mone
+<p align="left">✨ Creating bugs since 2010<br>📚 I'm currently learning English<br>🎯 Goals: make money
 
 ###
 
