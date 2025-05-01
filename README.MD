@@ -4,7 +4,7 @@
 
 <div>
 <p align="left">My name is Minjie and I'm a full-stack software enginer, from China . Microsoft MVP 2025 .</p>
-<img src="https://static.xbaby.xyz/MVP_Badge_Horizontal_Preferred_Blue3005_RGB.png" height="40"/>
+<img src="https://static.xbaby.xyz/MVP_Badge_Horizontal_Preferred_Blue3005_RGB.png" height="80"/>
 </div>
 
 ###
