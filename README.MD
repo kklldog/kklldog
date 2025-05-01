@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Minjie and I'm a full-stack software enginer, from China .</p>
+<p align="left">My name is Minjie and I'm a full-stack software enginer, from China . Microsoft MVP 2025 .</p>
 
 ###
 
