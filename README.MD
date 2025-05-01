@@ -1,10 +1,12 @@
 <h1 align="left">Hey 👋 What's up?</h1>
 
 ###
+
 <div>
 <p align="left">My name is Minjie and I'm a full-stack software enginer, from China . Microsoft MVP 2025 .</p>
-<img src="https://static.xbaby.xyz/MVP_Badge_Horizontal_Preferred_Blue3005_RGB.png"/>
+<img src="https://static.xbaby.xyz/MVP_Badge_Horizontal_Preferred_Blue3005_RGB.png" height="40"/>
 </div>
+
 ###
 
 <h2 align="left">About me</h2>
