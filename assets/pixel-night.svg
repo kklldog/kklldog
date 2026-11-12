@@ -5,6 +5,24 @@
   <g fill="#f3d37a">
     <path d="M88 64h8v8h-8zm128 72h8v8h-8zm96-48h8v8h-8zm128 32h8v8h-8zm160-64h8v8h-8zm112 88h8v8h-8zm152-64h8v8h-8zm112 48h8v8h-8z"/>
   </g>
+  <g fill="#f2f4ff">
+    <rect x="248" y="52" width="6" height="6">
+      <animate attributeName="opacity" values="0.25;1;0.25" dur="2.4s" repeatCount="indefinite"/>
+    </rect>
+    <rect x="516" y="112" width="6" height="6">
+      <animate attributeName="opacity" values="1;0.2;1" dur="1.8s" repeatCount="indefinite"/>
+    </rect>
+    <rect x="940" y="46" width="6" height="6">
+      <animate attributeName="opacity" values="0.2;1;0.2" dur="3s" repeatCount="indefinite"/>
+    </rect>
+  </g>
+  <g opacity="0">
+    <animateTransform attributeName="transform" type="translate" values="0 0; 350 100; 350 100" keyTimes="0; 0.18; 1" dur="8s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0;1;0;0" keyTimes="0;0.04;0.18;1" dur="8s" repeatCount="indefinite"/>
+    <rect x="260" y="48" width="48" height="4" fill="#f2f4ff"/>
+    <rect x="244" y="52" width="16" height="4" fill="#70e1d0"/>
+    <rect x="308" y="48" width="12" height="4" fill="#c49bff"/>
+  </g>
   <g fill="#252c4a">
     <path d="M0 202h80v78H0zm80 28h68v50H80zm68-54h84v104h-84zm84 30h68v74h-68zm68-80h78v154h-78zm78 52h58v102h-58zm58-26h104v128H436zm104 44h66v84h-66zm66-80h88v164h-88zm88 40h58v124h-58zm58-55h100v179H752zm100 72h62v107h-62zm62-26h88v133h-88zm88 33h100v100h-100z"/>
   </g>
@@ -25,7 +43,9 @@
       <rect x="38" y="74" width="38" height="5"/><rect x="84" y="74" width="86" height="5" fill="#c49bff"/>
       <rect x="24" y="88" width="62" height="5" fill="#70e1d0"/><rect x="94" y="88" width="96" height="5"/>
     </g>
-    <rect x="24" y="102" width="8" height="8" fill="#f3d37a"/>
+    <rect x="24" y="102" width="8" height="8" fill="#f3d37a">
+      <animate attributeName="opacity" values="1;0.15;1" dur="1s" repeatCount="indefinite"/>
+    </rect>
   </g>
   <g transform="translate(1110 194)">
     <rect x="18" y="0" width="44" height="44" fill="#f3d37a"/>
