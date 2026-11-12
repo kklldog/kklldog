@@ -1,6 +1,8 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/kklldog/kklldog/main/assets/pixel-night.svg" alt="Pixel art night scene: Minjie Zhou at a code terminal in a neon city" width="100%" />
+  <img src="https://raw.githubusercontent.com/kklldog/kklldog/main/assets/pixel-profile.gif" alt="Animated pixel-art profile: Minjie Zhou, .NET engineer in Suzhou and Microsoft MVP 2025. Four scenes feature his profile, open-source projects, skills, and achievements." width="100%" />
 </p>
+
+<!-- Banner source: .github/scripts/generate_pixel_profile.py. Requires FreeMono fonts and .github/scripts/requirements.txt; regenerate with python .github/scripts/generate_pixel_profile.py --output assets/pixel-profile.gif. -->
 
 <p align="center">
   <b>╔══════════════════════════════════════════════════════════════════╗</b><br/>
@@ -39,16 +41,6 @@
 | [AgileAI](https://github.com/kklldog/AgileAI) | Provider routing, streaming, tool calling & chat sessions for .NET | `BUILDING` |
 | [AgileDT](https://github.com/kklldog/AgileDT) | Reliable messaging for distributed transactions | `SHIPPED` |
 | [agileconfig-jclient](https://github.com/kklldog/agileconfig-jclient) | Java client for AgileConfig | `SHIPPED` |
-
-### ▸ PLAYER STATS
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=kklldog&show_icons=true&theme=synthwave&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kklldog&layout=compact&theme=synthwave&hide_border=true&langs_count=6" alt="Top languages" />
-</p>
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=kklldog&theme=synthwave&hide_border=true" alt="GitHub contribution streak" />
-</p>
 
 ### ▸ DAILY DROP
 
