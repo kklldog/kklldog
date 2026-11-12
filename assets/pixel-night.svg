@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="420" viewBox="0 0 1200 420" shape-rendering="crispEdges">
+  <rect width="1200" height="420" fill="#101426"/>
+  <rect y="280" width="1200" height="140" fill="#171c35"/>
+  <path d="M0 315h1200M0 350h1200M0 385h1200M70 280v140m70-140v140m70-140v140m70-140v140m70-140v140m70-140v140m70-140v140m70-140v140m70-140v140m70-140v140m70-140v140m70-140v140m70-140v140m70-140v140m70-140v140m70-140v140m70-140v140" stroke="#242b4c" stroke-width="2"/>
+  <g fill="#f3d37a">
+    <path d="M88 64h8v8h-8zm128 72h8v8h-8zm96-48h8v8h-8zm128 32h8v8h-8zm160-64h8v8h-8zm112 88h8v8h-8zm152-64h8v8h-8zm112 48h8v8h-8z"/>
+  </g>
+  <g fill="#252c4a">
+    <path d="M0 202h80v78H0zm80 28h68v50H80zm68-54h84v104h-84zm84 30h68v74h-68zm68-80h78v154h-78zm78 52h58v102h-58zm58-26h104v128H436zm104 44h66v84h-66zm66-80h88v164h-88zm88 40h58v124h-58zm58-55h100v179H752zm100 72h62v107h-62zm62-26h88v133h-88zm88 33h100v100h-100z"/>
+  </g>
+  <g fill="#313b60">
+    <path d="M160 194h14v14h-14zm28 0h14v14h-14zm-28 28h14v14h-14zm98 0h14v14h-14zm84-74h14v14h-14zm28 0h14v14h-14zm-28 28h14v14h-14zm98 0h14v14h-14zm28 0h14v14h-14zm-28 28h14v14h-14zm174-76h14v14h-14zm28 0h14v14h-14zm-28 28h14v14h-14zm94-68h14v14h-14zm28 0h14v14h-14zm-28 28h14v14h-14zm112 4h14v14h-14zm28 0h14v14h-14zm-28 28h14v14h-14zm106-22h14v14h-14zm28 0h14v14h-14z"/>
+  </g>
+  <g fill="#70e1d0">
+    <path d="M352 224h14v14h-14zm28 0h14v14h-14zm-28 28h14v14h-14zm322-56h14v14h-14zm28 0h14v14h-14zm-28 28h14v14h-14zm252-38h14v14h-14zm28 0h14v14h-14zm-28 28h14v14h-14z"/>
+  </g>
+  <g transform="translate(814 188)">
+    <rect x="0" y="0" width="258" height="126" fill="#090d19"/>
+    <rect x="8" y="8" width="242" height="110" fill="#202945"/>
+    <rect x="8" y="8" width="242" height="20" fill="#35405f"/>
+    <circle cx="20" cy="18" r="4" fill="#ff6b7a"/><circle cx="34" cy="18" r="4" fill="#f3d37a"/><circle cx="48" cy="18" r="4" fill="#70e1d0"/>
+    <g fill="#9eacd2">
+      <rect x="24" y="46" width="48" height="5"/><rect x="80" y="46" width="68" height="5" fill="#70e1d0"/>
+      <rect x="38" y="60" width="56" height="5" fill="#f3d37a"/><rect x="102" y="60" width="74" height="5"/>
+      <rect x="38" y="74" width="38" height="5"/><rect x="84" y="74" width="86" height="5" fill="#c49bff"/>
+      <rect x="24" y="88" width="62" height="5" fill="#70e1d0"/><rect x="94" y="88" width="96" height="5"/>
+    </g>
+    <rect x="24" y="102" width="8" height="8" fill="#f3d37a"/>
+  </g>
+  <g transform="translate(1110 194)">
+    <rect x="18" y="0" width="44" height="44" fill="#f3d37a"/>
+    <rect x="10" y="8" width="60" height="36" fill="#f3d37a"/>
+    <rect x="18" y="18" width="8" height="8" fill="#101426"/><rect x="46" y="18" width="8" height="8" fill="#101426"/>
+    <rect x="30" y="34" width="12" height="6" fill="#ff6b7a"/>
+    <rect x="14" y="44" width="52" height="54" fill="#70e1d0"/>
+    <rect x="0" y="52" width="14" height="38" fill="#70e1d0"/><rect x="66" y="52" width="14" height="38" fill="#70e1d0"/>
+    <rect x="20" y="98" width="16" height="30" fill="#c49bff"/><rect x="44" y="98" width="16" height="30" fill="#c49bff"/>
+    <rect x="14" y="122" width="24" height="10" fill="#f3d37a"/><rect x="42" y="122" width="24" height="10" fill="#f3d37a"/>
+  </g>
+  <g fill="#f3d37a">
+    <rect x="0" y="0" width="1200" height="8"/><rect x="0" y="412" width="1200" height="8"/>
+    <rect x="0" y="0" width="8" height="420"/><rect x="1192" y="0" width="8" height="420"/>
+  </g>
+  <text x="64" y="86" fill="#70e1d0" font-family="monospace" font-size="16" font-weight="bold" letter-spacing="4">PLAYER 1  /  DEVELOPER</text>
+  <text x="60" y="164" fill="#f3d37a" font-family="monospace" font-size="64" font-weight="bold">MINJIE</text>
+  <text x="64" y="218" fill="#f3d37a" font-family="monospace" font-size="38" font-weight="bold">ZHOU</text>
+  <rect x="64" y="246" width="314" height="3" fill="#ff6b7a"/>
+  <text x="64" y="278" fill="#f2f4ff" font-family="monospace" font-size="17">.NET ENGINEER  ·  OPEN SOURCE MAKER</text>
+  <text x="64" y="330" fill="#9eacd2" font-family="monospace" font-size="15">SUZHOU, CHINA  //  EST. 2010</text>
+  <text x="814" y="340" fill="#70e1d0" font-family="monospace" font-size="13" letter-spacing="2">BUILD  •  SHIP  •  REPEAT</text>
+</svg>
